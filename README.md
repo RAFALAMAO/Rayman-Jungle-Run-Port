@@ -1,1 +1,1 @@
-# __Original XDA Post__ [XDA](https://xdaforums.com/t/rayman-jungle-fiesta-run-android-13-port-decompiled-apktool.4658702/).
+# __Original__ [XDA Post](https://xdaforums.com/t/rayman-jungle-fiesta-run-android-13-port-decompiled-apktool.4658702/).
